@@ -9,6 +9,9 @@ function App() {
         <p>
           Cuong Nguyen
         </p>
+        <a href='google.com'>
+          Link Facebook to Contract
+        </a>
       </header>
     </div>
   );
